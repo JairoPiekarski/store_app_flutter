@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:store_app/utils/theme/custom_themes/appbar_theme.dart';
 import 'package:store_app/utils/theme/custom_themes/bottom_sheet_theme.dart';
-import 'package:store_app/utils/theme/custom_themes/chekbox_theme.dart';
+import 'package:store_app/utils/theme/custom_themes/checkbox_theme.dart';
 import 'package:store_app/utils/theme/custom_themes/chip_theme.dart';
 import 'package:store_app/utils/theme/custom_themes/elevated_button_theme.dart';
 import 'package:store_app/utils/theme/custom_themes/outlined_button_theme.dart';
